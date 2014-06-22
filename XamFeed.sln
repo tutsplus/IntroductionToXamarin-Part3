@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamFeed.iOS", "XamFeed.iOS\XamFeed.iOS.csproj", "{2B8580B6-14D9-43E2-86AF-CC0FBCA1640D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamFeed.Android", "XamFeed.Android\XamFeed.Android.csproj", "{15AF06A9-8BC8-4AED-9591-4F82FF5C8510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamFeed.Core", "XamFeed.Core\XamFeed.Core.csproj", "{0813B111-8324-45A1-8F66-39BC95B118F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0813B111-8324-45A1-8F66-39BC95B118F9}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{0813B111-8324-45A1-8F66-39BC95B118F9}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{0813B111-8324-45A1-8F66-39BC95B118F9}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{0813B111-8324-45A1-8F66-39BC95B118F9}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{0813B111-8324-45A1-8F66-39BC95B118F9}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{0813B111-8324-45A1-8F66-39BC95B118F9}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{0813B111-8324-45A1-8F66-39BC95B118F9}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{0813B111-8324-45A1-8F66-39BC95B118F9}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{0813B111-8324-45A1-8F66-39BC95B118F9}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{0813B111-8324-45A1-8F66-39BC95B118F9}.Release|iPhone.Build.0 = Release|Any CPU
+		{0813B111-8324-45A1-8F66-39BC95B118F9}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{0813B111-8324-45A1-8F66-39BC95B118F9}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{15AF06A9-8BC8-4AED-9591-4F82FF5C8510}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{15AF06A9-8BC8-4AED-9591-4F82FF5C8510}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{15AF06A9-8BC8-4AED-9591-4F82FF5C8510}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{15AF06A9-8BC8-4AED-9591-4F82FF5C8510}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{15AF06A9-8BC8-4AED-9591-4F82FF5C8510}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{15AF06A9-8BC8-4AED-9591-4F82FF5C8510}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{15AF06A9-8BC8-4AED-9591-4F82FF5C8510}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{15AF06A9-8BC8-4AED-9591-4F82FF5C8510}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{15AF06A9-8BC8-4AED-9591-4F82FF5C8510}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{15AF06A9-8BC8-4AED-9591-4F82FF5C8510}.Release|iPhone.Build.0 = Release|Any CPU
+		{15AF06A9-8BC8-4AED-9591-4F82FF5C8510}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{15AF06A9-8BC8-4AED-9591-4F82FF5C8510}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{2B8580B6-14D9-43E2-86AF-CC0FBCA1640D}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{2B8580B6-14D9-43E2-86AF-CC0FBCA1640D}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{2B8580B6-14D9-43E2-86AF-CC0FBCA1640D}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{2B8580B6-14D9-43E2-86AF-CC0FBCA1640D}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{2B8580B6-14D9-43E2-86AF-CC0FBCA1640D}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{2B8580B6-14D9-43E2-86AF-CC0FBCA1640D}.Debug|iPhone.Build.0 = Debug|iPhone
+		{2B8580B6-14D9-43E2-86AF-CC0FBCA1640D}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{2B8580B6-14D9-43E2-86AF-CC0FBCA1640D}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{2B8580B6-14D9-43E2-86AF-CC0FBCA1640D}.Release|iPhone.ActiveCfg = Release|iPhone
+		{2B8580B6-14D9-43E2-86AF-CC0FBCA1640D}.Release|iPhone.Build.0 = Release|iPhone
+		{2B8580B6-14D9-43E2-86AF-CC0FBCA1640D}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{2B8580B6-14D9-43E2-86AF-CC0FBCA1640D}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItems = $0
+		$0.Item = XamFeed.iOS\XamFeed.iOS.csproj
+		$0.Item = XamFeed.Android\XamFeed.Android.csproj
+	EndGlobalSection
+EndGlobal
